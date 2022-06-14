@@ -8,10 +8,10 @@
 
 Любые вопросы по решению задач задавайте в канале группы.
 
-7.1. [Качество обслуживания в сетях Ethernet. Модели QOS.]()
+7.1. [Качество обслуживания в сетях Ethernet. Модели QOS.](https://github.com/netology-code/qos-homeworks/blob/main/7-01/7-01.md)
 
-7.2. [Классификация и маркировка трафика.]()
+7.2. [Классификация и маркировка трафика.](https://github.com/netology-code/qos-homeworks/blob/main/7-02.md)
 
-7.3. [Policing и shaping трафика.]()
+7.3. [Policing и shaping трафика.](https://github.com/netology-code/qos-homeworks/blob/main/7-03.md)
 
-7.4. [Алгоритмы управления перегрузками. Механизмы предотвращения перегрузкой.]()
+7.4. [Алгоритмы управления перегрузками. Механизмы предотвращения перегрузкой.](https://github.com/netology-code/qos-homeworks/blob/main/7-04.md)
